@@ -1,0 +1,4 @@
+Add back is adding numbers but not to the back
+remove back does not remove anything or doesn't change m_size
+remove front does not remove anything or doesn't change m_size
+isEmpty() returns true on a non empty list
